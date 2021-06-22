@@ -1,1 +1,1 @@
-!{}(MTWR.png)
+![](MTWR.png)
